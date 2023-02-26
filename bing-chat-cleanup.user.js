@@ -1,11 +1,14 @@
 // ==UserScript==
 // @name         Bing AI Chat Cleanup
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Centers the bing AI chat box, and remove some of the welcoming clutter text.
 // @author       Gegell
 // @match        https://www.bing.com/*search?q=Bing+AI*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bing.com
+// @updateURL    https://raw.githubusercontent.com/Gegell/bing-chat-cleanup/main/bing-chat-cleanup.user.js
+// @downloadURL  https://raw.githubusercontent.com/Gegell/bing-chat-cleanup/main/bing-chat-cleanup.user.js
+// @supportURL   https://github.com/Gegell/bing-chat-cleanup/issues
 // @grant        none
 // ==/UserScript==
 
